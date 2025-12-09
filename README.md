@@ -181,17 +181,16 @@ GitHub: https://github.com/cengrecepbasak/credit-risk-model
 ---
 ### ✅ Özet
 
-Problem: Kredi geri ödememe risk tahmini
+-Problem: Kredi geri ödememe risk tahmini
 
-Baseline: Basit model, ROC-AUC ~0.79
+-Baseline: Basit model, ROC-AUC ~0.79
 
-Feature engineering: Ratio, external score, family/employment features
+-Feature engineering: Ratio, external score, family/employment features
 
-Validasyon: Stratified K-Fold
+-Validasyon: Stratified K-Fold
 
-Final pipeline: Feature engineering + trained model + threshold
+-Final pipeline: Feature engineering + trained model + threshold
 
-Başarı farkı: Baseline ile final model metrikleri karşılaştırıldı
+-Başarı farkı: Baseline ile final model metrikleri karşılaştırıldı
 
-Business uyumu: Yüksek precision ile riskli kredi başvuruları doğru tespit ediliyor
----
+-Business uyumu: Yüksek precision ile riskli kredi başvuruları doğru tespit ediliyor
