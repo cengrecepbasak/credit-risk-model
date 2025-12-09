@@ -179,7 +179,7 @@ Proje sahibi: Recep Başak
 
 GitHub: https://github.com/cengrecepbasak/credit-risk-model
 ---
-✅ Özet
+### ✅ Özet
 
 Problem: Kredi geri ödememe risk tahmini
 
@@ -194,6 +194,4 @@ Final pipeline: Feature engineering + trained model + threshold
 Başarı farkı: Baseline ile final model metrikleri karşılaştırıldı
 
 Business uyumu: Yüksek precision ile riskli kredi başvuruları doğru tespit ediliyor
-
-Canlı izleme: Streamlit UI üzerinden test, metrikler compute_metrics.py ile kontrol edilebilir
 ---
