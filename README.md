@@ -1,4 +1,4 @@
-📌 Credit Risk Prediction – Machine Learning Pipeline
+## 📌 Credit Risk Prediction – Machine Learning Pipeline
 
 Bu proje, müşterilerin kredi geri ödememe (default) riskini tahmin etmek için uçtan uca bir Makine Öğrenimi Pipeline'ı içermektedir.
 Projede veri analizi, özellik mühendisliği, model optimizasyonu, model değerlendirme, API servisi ve Streamlit arayüzü bulunmaktadır.
