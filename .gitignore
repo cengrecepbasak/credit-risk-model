@@ -1,0 +1,40 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.env
+*.venv
+env/
+venv/
+*.egg-info/
+
+# Logs and temp
+*.log
+tmp/
+*.bak
+
+# Data
+data/raw/
+data/processed/*.csv
+
+# Model
+models/*.pkl
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb
+
+# VSCode
+.vscode/
+
+# Mac / Linux system files
+.DS_Store
+*.swp
+
+# SQLite / databases
+*.sqlite3
+*.db
+
+# Pytest / test cache
+.pytest_cache/
