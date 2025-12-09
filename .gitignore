@@ -19,11 +19,11 @@ data/raw/
 data/processed/*.csv
 
 # Model
-models/*.pkl
+# Eğer model pushlamak istiyorsan yorum satırı kaldır
+# models/*.pkl
 
 # Jupyter
 .ipynb_checkpoints/
-*.ipynb
 
 # VSCode
 .vscode/
